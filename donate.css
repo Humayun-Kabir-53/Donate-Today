@@ -1,0 +1,219 @@
+/* Styling body part */
+body {
+    font-family: 'Mingzat', sans-serif;
+    margin: 0;
+    border: 2px solid ghostwhite;
+}
+
+/* Styling Top bannar part */
+.image {
+    background-image: url(./images/donation3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    margin: auto;
+    margin-bottom: 30px;
+    padding-top: 85px;
+}
+/* styling firtst headlind */
+.lets-help {
+    text-align: center;
+    padding-top: 2cm;
+    color:papayawhip;
+    font-size: 40px;
+}
+
+/* styling donations button */
+.donate-button {
+    color: lightgoldenrodyellow;
+    font-weight: 700;
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color: tomato;
+    border: oldlace;
+    border-radius: 5px;
+}
+.center {
+    text-align: center;
+}
+.donate-today {
+    text-align: center;
+    margin: auto;
+    width: 30%;
+    color: gray;
+
+}
+.banner-p {
+    color: white;
+    text-align: center;
+}
+.second-bannar-a {
+    display: flex;
+    justify-content: center;
+}
+.second-bannar-b {
+    display: flex;
+    text-align: center;
+    margin-left:25%;
+}
+.second-bannar-c {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.second-bannar-d {
+    width: 50%;
+}
+.gray {
+    color: grey;
+}
+.money-part {
+    padding: 20px 25px;
+    margin: 20px;
+    color: gray;
+    background-color: rgb(247, 241, 241);
+    font-size: 20px;
+}
+.third-bannar-a {
+    text-align: center;
+    display: flex;
+    width: 50%;
+    margin: auto;
+    margin-top: 50px;
+}
+.third-bannar-b {
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    margin: 10px;
+}
+#food-color-1 {
+    background-color: rgb(127, 231, 197);
+}
+#food-color-2 {
+    background-color: pink;
+}
+#food-color-3 {
+    background-color: rgb(191, 228, 116);
+}
+
+.third-bannar-c {
+    width: 20%;
+    padding: 30px;
+    margin: 10px;
+    justify-content: space-evenly;
+    border-radius: 10px;
+}
+.main-part {
+    margin-top: 80px;
+    display: flex;
+}
+.text-part {
+    width: 40%;
+    margin-left: 15%;
+    margin-right: 5%;
+    margin-top: 20px;
+    color: rgb(85, 78, 78);
+    text-align: justify;
+}
+
+/* styling contribution button */
+.contribute-button {
+    text-decoration: none;
+    padding: 10px 10px 15px;
+    color: white;
+    background-image: linear-gradient(tomato, red);
+    border-radius: 10px;
+    margin-bottom: 40px;
+}
+.update-part-b {
+    display: flex;
+    display: block;
+    text-align: center;
+    justify-content: center;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.update-part-c {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-top: 80px;
+    background-color: powderblue;
+    margin-left: 24%;
+    margin-right: 24%;
+    padding: 50px 0px;
+    font-size: 20px;
+}
+.update-part-d {
+    display: flex;
+    border-radius: 5px;
+}
+#input {
+    background-color: rgb(213, 212, 212);
+    font-size: 20px;
+    border: none;
+    padding-left: 15px;
+    padding: 5px 15px;
+    padding-right: 0px;
+    margin-right: 0px;
+    border-radius: 10px;
+}
+
+/* styling subscribe button */
+#subscribe {
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 16px;
+    margin-left: 0px;
+    color: white;
+}
+/* styling extra part for bonus marks */
+.how-it-works-section {
+    margin-top: 80px;
+
+}
+.how-it-works {
+    text-align: center;
+    color:powderblue;
+}
+.how-it-works-a{
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+    padding: 20px;
+}
+.how-it-works-b{
+    text-align: justify;
+    margin: 15px;
+    padding: 15px;
+    background-color: darkgrey;
+    
+}
+.image-class{
+    height: 200px;
+    width: 300px;
+    position: center;
+    margin-left: 30px;
+}
+.footer-a {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(45,44,44);
+    color: white;
+    padding: 25px;
+}
+.footer-b {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    color: tomato;
+    font-family: 'The Nautigal', cursive;
+}
+
